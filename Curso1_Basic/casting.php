@@ -27,3 +27,5 @@ $promedio_maximo = $numero_respuestas / 1.0;
 var_dump($promedio_maximo);
 
 $michis = 3 + "5 michis";
+
+var_dump($michis);
